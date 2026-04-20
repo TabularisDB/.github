@@ -48,7 +48,7 @@ A desktop client that supports PostgreSQL, MySQL/MariaDB and SQLite, with notebo
 **Available in:** English, Italian, Spanish, Chinese (Simplified), French, German
 
 <div align="center">
-  <img src="https://github.com/TabularisDB/website/raw/public/img/overview.gif?raw=true" alt="Tabularis" />
+  <img src="https://github.com/TabularisDB/website/blob/main/public/img/overview.gif?raw=true" alt="Tabularis" />
 </div>
 
 ## Community
