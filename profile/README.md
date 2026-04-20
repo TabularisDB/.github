@@ -2,9 +2,32 @@
   <img src="https://github.com/TabularisDB/tabularis/blob/main/public/logo-sm.png?raw=true" width="120" height="120" />
 </div>
 
-# tabularis
+<h1 align="center">TabularisDB</h1>
 
 <p align="center">
+  <em>Open-source tools for modern databases.</em>
+</p>
+
+<p align="center">
+  <a href="https://tabularis.dev">Website</a> ·
+  <a href="https://tabularis.dev/blog">Blog</a> ·
+  <a href="https://discord.gg/YrZPHAwMSG">Discord</a> ·
+  <a href="https://tabularis.dev/sponsors">Sponsors</a>
+</p>
+
+---
+
+## Who we are
+
+TabularisDB is the organization behind **[Tabularis](https://github.com/TabularisDB/tabularis)**, an open-source desktop client for modern databases. We build developer tools that make working with data fast, local-first, and hackable — without locking you into a vendor.
+
+## Our flagship project
+
+### [Tabularis](https://github.com/TabularisDB/tabularis)
+
+🌐 **Website:** [tabularis.dev](https://tabularis.dev)
+
+<p>
   
 ![](https://img.shields.io/github/release/TabularisDB/tabularis.svg?style=flat)
 ![](https://img.shields.io/github/downloads/TabularisDB/tabularis/total.svg?style=flat)
@@ -14,25 +37,42 @@
 
 </p>
 
-<p align="center">
+<p>
   <a href="https://snapcraft.io/tabularis"><img src="https://img.shields.io/badge/snap-tabularis-blue?logo=snapcraft" alt="Snap Store" /></a>
   <a href="https://aur.archlinux.org/packages/tabularis-bin"><img src="https://img.shields.io/badge/AUR-tabularis--bin-1793D1?logo=archlinux&logoColor=white" alt="AUR" /></a>
   <a href="https://winstall.app/apps/Debba.Tabularis"><img src="https://img.shields.io/winget/v/Debba.Tabularis?label=WinGet&logo=windows&color=0078D4" alt="WinGet" /></a>
 </p>
 
-An open-source desktop client for modern databases. Supports PostgreSQL, MySQL/MariaDB and SQLite and is hackable with plugins, with notebooks, AI, and MCP built in.
+A desktop client that supports PostgreSQL, MySQL/MariaDB and SQLite, with notebooks, AI, MCP, and a plugin system built in.
 
 **Available in:** English, Italian, Spanish, Chinese (Simplified), French, German
-
-**Discord** - [Join our Discord server](https://discord.gg/YrZPHAwMSG) to talk with the maintainers, share feedback, and get help from the community.
 
 <div align="center">
   <img src="https://tabularis.dev/img/overview.png?v" width="80%" alt="Tabularis" />
 </div>
 
-## Release Download:
+#### Download
 
 [![Windows](https://img.shields.io/badge/Windows-Download-blue?logo=windows)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis_0.9.19_x64-setup.exe) [![macOS](https://img.shields.io/badge/macOS-Download-black?logo=apple)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis_0.9.19_x64.dmg) [![Linux AppImage](https://img.shields.io/badge/Linux-AppImage-green?logo=linux)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis_0.9.19_amd64.AppImage) [![Linux .deb](https://img.shields.io/badge/Linux-.deb-orange?logo=debian)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis_0.9.19_amd64.deb) [![Linux .rpm](https://img.shields.io/badge/Linux-.rpm-red?logo=redhat)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis-0.9.7-1.x86_64.rpm)
+
+## Community
+
+Join our **[Discord server](https://discord.gg/YrZPHAwMSG)** to talk with the maintainers, share feedback, report bugs, and help shape the roadmap.
+
+## From the blog
+
+<!-- BLOG-POSTS:START -->
+
+| Preview | Title | Published |
+|---|---|---|
+| [<img src="https://tabularis.dev/blog/building-tabularis-future-of-databases-ai/opengraph-image.png" alt="Databases Are Not Becoming Chatbots" width="120" />](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | [Databases Are Not Becoming Chatbots](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | 2026-04-17 12:30 |
+| [<img src="https://tabularis.dev/blog/v0919-polish-french-german/opengraph-image.png" alt="v0.9.19: Polish, Bug Fixes, French and German" width="120" />](https://tabularis.dev/blog/v0919-polish-french-german) | [v0.9.19: Polish, Bug Fixes, French and German](https://tabularis.dev/blog/v0919-polish-french-german) | 2026-04-16 22:30 |
+| [<img src="https://tabularis.dev/blog/v0918-query-history/opengraph-image.png" alt="v0.9.18: Query History Becomes a Workflow" width="120" />](https://tabularis.dev/blog/v0918-query-history) | [v0.9.18: Query History Becomes a Workflow](https://tabularis.dev/blog/v0918-query-history) | 2026-04-16 12:15 |
+| [<img src="https://tabularis.dev/blog/v0917-visual-explain/opengraph-image.png" alt="v0.9.17: Visual EXPLAIN Arrives" width="120" />](https://tabularis.dev/blog/v0917-visual-explain) | [v0.9.17: Visual EXPLAIN Arrives](https://tabularis.dev/blog/v0917-visual-explain) | 2026-04-14 12:00 |
+| [<img src="https://tabularis.dev/blog/from-zero-to-1000-github-stars/opengraph-image.png" alt="From 0 to 1,000 GitHub Stars: What I Learned in 10 Weeks" width="120" />](https://tabularis.dev/blog/from-zero-to-1000-github-stars) | [From 0 to 1,000 GitHub Stars: What I Learned in 10 Weeks](https://tabularis.dev/blog/from-zero-to-1000-github-stars) | 2026-04-14 09:00 |
+
+*Last updated: 2026-04-20 08:04 UTC*
+<!-- BLOG-POSTS:END -->
 
 <!-- SPONSORS:START -->
 
