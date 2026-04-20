@@ -51,10 +51,6 @@ A desktop client that supports PostgreSQL, MySQL/MariaDB and SQLite, with notebo
   <img src="https://github.com/TabularisDB/tabularis/raw/main/website/public/img/overview.gif" alt="Tabularis" />
 </div>
 
-#### Download
-
-[![Windows](https://img.shields.io/badge/Windows-Download-blue?logo=windows)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis_0.9.19_x64-setup.exe) [![macOS](https://img.shields.io/badge/macOS-Download-black?logo=apple)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis_0.9.19_x64.dmg) [![Linux AppImage](https://img.shields.io/badge/Linux-AppImage-green?logo=linux)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis_0.9.19_amd64.AppImage) [![Linux .deb](https://img.shields.io/badge/Linux-.deb-orange?logo=debian)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis_0.9.19_amd64.deb) [![Linux .rpm](https://img.shields.io/badge/Linux-.rpm-red?logo=redhat)](https://github.com/debba/tabularis/releases/download/v0.9.19/tabularis-0.9.7-1.x86_64.rpm)
-
 ## Community
 
 Join our **[Discord server](https://discord.gg/YrZPHAwMSG)** to talk with the maintainers, share feedback, report bugs, and help shape the roadmap.
