@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.gg/YrZPHAwMSG)** to talk with the ma
 | [<img src="https://tabularis.dev/blog/v0917-visual-explain/opengraph-image.png" alt="v0.9.17: Visual EXPLAIN Arrives" width="120" />](https://tabularis.dev/blog/v0917-visual-explain) | [v0.9.17: Visual EXPLAIN Arrives](https://tabularis.dev/blog/v0917-visual-explain) | 2026-04-14 12:00 |
 | [<img src="https://tabularis.dev/blog/from-zero-to-1000-github-stars/opengraph-image.png" alt="From 0 to 1,000 GitHub Stars: What I Learned in 10 Weeks" width="120" />](https://tabularis.dev/blog/from-zero-to-1000-github-stars) | [From 0 to 1,000 GitHub Stars: What I Learned in 10 Weeks](https://tabularis.dev/blog/from-zero-to-1000-github-stars) | 2026-04-14 09:00 |
 
-*Last updated: 2026-04-20 19:08 UTC*
+*Last updated: 2026-04-21 02:46 UTC*
 <!-- BLOG-POSTS:END -->
