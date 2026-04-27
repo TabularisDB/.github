@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.gg/YrZPHAwMSG)** to talk with the ma
 | [<img src="https://tabularis.dev/blog/building-tabularis-future-of-databases-ai/opengraph-image.png" alt="Databases Are Not Becoming Chatbots" width="120" />](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | [Databases Are Not Becoming Chatbots](https://tabularis.dev/blog/building-tabularis-future-of-databases-ai) | 2026-04-17 12:30 |
 | [<img src="https://tabularis.dev/blog/v0919-polish-french-german/opengraph-image.png" alt="v0.9.19: Polish, Bug Fixes, French and German" width="120" />](https://tabularis.dev/blog/v0919-polish-french-german) | [v0.9.19: Polish, Bug Fixes, French and German](https://tabularis.dev/blog/v0919-polish-french-german) | 2026-04-16 22:30 |
 
-*Last updated: 2026-04-27 08:29 UTC*
+*Last updated: 2026-04-27 13:58 UTC*
 <!-- BLOG-POSTS:END -->
