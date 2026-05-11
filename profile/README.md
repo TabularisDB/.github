@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://tabularis.dev">Website</a> ·
   <a href="https://tabularis.dev/blog">Blog</a> ·
-  <a href="https://discord.gg/YrZPHAwMSG">Discord</a> ·
+  <a href="https://discord.com/invite/K2hmhfHRSt">Discord</a> ·
   <a href="https://tabularis.dev/sponsors">Sponsors</a>
 </p>
 
@@ -32,7 +32,7 @@ TabularisDB is the organization behind **[Tabularis](https://github.com/Tabulari
 ![](https://img.shields.io/github/release/TabularisDB/tabularis.svg?style=flat)
 ![](https://img.shields.io/github/downloads/TabularisDB/tabularis/total.svg?style=flat)
 ![Build & Release](https://github.com/TabularisDB/tabularis/workflows/Release/badge.svg)
-[![Discord](https://img.shields.io/discord/1470772941296894128?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/YrZPHAwMSG)
+[![Discord](https://img.shields.io/discord/1470772941296894128?color=5865F2&logo=discord&logoColor=white)](https://discord.com/invite/K2hmhfHRSt)
 [![Gitster](https://gitster.dev/api/repositories/badge/cmlko1jr60005ne4yh7i7oy3e)](https://gitster.dev/repo/debba/tabularis)
 
 </p>
@@ -53,7 +53,7 @@ A desktop client that supports PostgreSQL, MySQL/MariaDB and SQLite, with notebo
 
 ## Community
 
-Join our **[Discord server](https://discord.gg/YrZPHAwMSG)** to talk with the maintainers, share feedback, report bugs, and help shape the roadmap.
+Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk with the maintainers, share feedback, report bugs, and help shape the roadmap.
 
 ## From the blog
 
