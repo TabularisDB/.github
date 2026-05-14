@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/v0101-pagination-fix-context-menu-postgres-bindings/opengraph-image.png" alt="v0.10.1: Pagination Fix, Context Menu Actions, and Postgres Bindings" width="120" />](https://tabularis.dev/blog/v0101-pagination-fix-context-menu-postgres-bindings) | [v0.10.1: Pagination Fix, Context Menu Actions, and Postgres Bindings](https://tabularis.dev/blog/v0101-pagination-fix-context-menu-postgres-bindings) | 2026-05-04 12:00 |
 | [<img src="https://tabularis.dev/blog/v0100-ai-safety-audit-approval/opengraph-image.png" alt="AI Safety, Audit Log and Approval Gates: v0.10.0" width="120" />](https://tabularis.dev/blog/v0100-ai-safety-audit-approval) | [AI Safety, Audit Log and Approval Gates: v0.10.0](https://tabularis.dev/blog/v0100-ai-safety-audit-approval) | 2026-04-25 10:00 |
 
-*Last updated: 2026-05-14 03:35 UTC*
+*Last updated: 2026-05-14 08:39 UTC*
 <!-- BLOG-POSTS:END -->
