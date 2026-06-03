@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/digitalocean-opensource-sponsorship/opengraph-image.png" alt="Tabularis Is Now Backed by DigitalOcean" width="120" />](https://tabularis.dev/blog/digitalocean-opensource-sponsorship) | [Tabularis Is Now Backed by DigitalOcean](https://tabularis.dev/blog/digitalocean-opensource-sponsorship) | 2026-05-20 11:00 |
 | [<img src="https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese/opengraph-image.png" alt="v0.11.0: A Real Editor Inside Every Cell, Triggers, and 日本語" width="120" />](https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese) | [v0.11.0: A Real Editor Inside Every Cell, Triggers, and 日本語](https://tabularis.dev/blog/v0110-json-viewer-text-diff-triggers-japanese) | 2026-05-18 10:00 |
 
-*Last updated: 2026-06-03 16:52 UTC*
+*Last updated: 2026-06-03 20:57 UTC*
 <!-- BLOG-POSTS:END -->
