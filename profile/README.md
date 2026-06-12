@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/sourceforge-rising-star-award/opengraph-image.png" alt="Tabularis Wins a SourceForge Rising Star Award" width="120" />](https://tabularis.dev/blog/sourceforge-rising-star-award) | [Tabularis Wins a SourceForge Rising Star Award](https://tabularis.dev/blog/sourceforge-rising-star-award) | 2026-06-05 09:51 |
 | [<img src="https://tabularis.dev/blog/your-database-gui-shouldnt-need-an-account/opengraph-image.png" alt="Your Database GUI Shouldn't Need an Account" width="120" />](https://tabularis.dev/blog/your-database-gui-shouldnt-need-an-account) | [Your Database GUI Shouldn't Need an Account](https://tabularis.dev/blog/your-database-gui-shouldnt-need-an-account) | 2026-06-03 15:34 |
 
-*Last updated: 2026-06-12 15:18 UTC*
+*Last updated: 2026-06-12 20:12 UTC*
 <!-- BLOG-POSTS:END -->
