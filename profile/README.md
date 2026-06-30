@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee/opengraph-image.png" alt="Translating Tabularis, the Right Way: Why We Chose Tolgee" width="120" />](https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee) | [Translating Tabularis, the Right Way: Why We Chose Tolgee](https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee) | 2026-06-19 10:00 |
 | [<img src="https://tabularis.dev/blog/vercel-open-source-program/opengraph-image.png" alt="Tabularis Joins the Vercel Open Source Program" width="120" />](https://tabularis.dev/blog/vercel-open-source-program) | [Tabularis Joins the Vercel Open Source Program](https://tabularis.dev/blog/vercel-open-source-program) | 2026-06-19 08:00 |
 
-*Last updated: 2026-06-29 19:59 UTC*
+*Last updated: 2026-06-30 03:49 UTC*
 <!-- BLOG-POSTS:END -->
