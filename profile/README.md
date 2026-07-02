@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/database-drivers-as-external-processes/opengraph-image.png" alt="Database drivers as external processes" width="120" />](https://tabularis.dev/blog/database-drivers-as-external-processes) | [Database drivers as external processes](https://tabularis.dev/blog/database-drivers-as-external-processes) | 2026-06-24 09:00 |
 | [<img src="https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee/opengraph-image.png" alt="Translating Tabularis, the Right Way: Why We Chose Tolgee" width="120" />](https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee) | [Translating Tabularis, the Right Way: Why We Chose Tolgee](https://tabularis.dev/blog/translating-tabularis-why-we-chose-tolgee) | 2026-06-19 10:00 |
 
-*Last updated: 2026-07-02 09:14 UTC*
+*Last updated: 2026-07-02 14:04 UTC*
 <!-- BLOG-POSTS:END -->
