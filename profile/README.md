@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/v0133-result-colors-gruvbox-themed-tabs-session-restore/opengraph-image.png" alt="v0.13.3: Color Your Results, Theme Your Tabs, and Pick Up Where You Left Off" width="120" />](https://tabularis.dev/blog/v0133-result-colors-gruvbox-themed-tabs-session-restore) | [v0.13.3: Color Your Results, Theme Your Tabs, and Pick Up Where You Left Off](https://tabularis.dev/blog/v0133-result-colors-gruvbox-themed-tabs-session-restore) | 2026-06-24 10:00 |
 | [<img src="https://tabularis.dev/blog/database-drivers-as-external-processes/opengraph-image.png" alt="Database drivers as external processes" width="120" />](https://tabularis.dev/blog/database-drivers-as-external-processes) | [Database drivers as external processes](https://tabularis.dev/blog/database-drivers-as-external-processes) | 2026-06-24 09:00 |
 
-*Last updated: 2026-07-03 19:24 UTC*
+*Last updated: 2026-07-04 03:18 UTC*
 <!-- BLOG-POSTS:END -->
