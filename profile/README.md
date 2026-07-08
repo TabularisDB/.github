@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/v0134-ssh-security-keys-detachable-results-smarter-editor/opengraph-image.png" alt="v0.13.4: Unlock Everything — Hardware Keys, Free-Floating Results, and a Sharper Editor" width="120" />](https://tabularis.dev/blog/v0134-ssh-security-keys-detachable-results-smarter-editor) | [v0.13.4: Unlock Everything — Hardware Keys, Free-Floating Results, and a Sharper Editor](https://tabularis.dev/blog/v0134-ssh-security-keys-detachable-results-smarter-editor) | 2026-06-30 11:00 |
 | [<img src="https://tabularis.dev/blog/managing-tabularis-secrets-with-1password/opengraph-image.png" alt="Where Tabularis Keeps Its Secrets: Thank You, 1Password" width="120" />](https://tabularis.dev/blog/managing-tabularis-secrets-with-1password) | [Where Tabularis Keeps Its Secrets: Thank You, 1Password](https://tabularis.dev/blog/managing-tabularis-secrets-with-1password) | 2026-06-29 10:00 |
 
-*Last updated: 2026-07-08 02:48 UTC*
+*Last updated: 2026-07-08 08:30 UTC*
 <!-- BLOG-POSTS:END -->
