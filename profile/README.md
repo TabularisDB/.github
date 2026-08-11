@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client/opengraph-image.png" alt="The Rust stack inside a ~15 MB installer" width="120" />](https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client) | [The Rust stack inside a ~15 MB installer](https://tabularis.dev/blog/rust-stack-inside-a-15mb-database-client) | 2026-07-30 08:52 |
 | [<img src="https://tabularis.dev/blog/v0170-visual-explain-diagnostics-row-editor-sidebar-sql-formatting/opengraph-image.png" alt="v0.17.0: Visual EXPLAIN That Points at the Problem, a Row Editor That Follows You, and SQL That Formats Itself" width="120" />](https://tabularis.dev/blog/v0170-visual-explain-diagnostics-row-editor-sidebar-sql-formatting) | [v0.17.0: Visual EXPLAIN That Points at the Problem, a Row Editor That Follows You, and SQL That Formats Itself](https://tabularis.dev/blog/v0170-visual-explain-diagnostics-row-editor-sidebar-sql-formatting) | 2026-07-27 15:00 |
 
-*Last updated: 2026-08-10 18:58 UTC*
+*Last updated: 2026-08-11 01:49 UTC*
 <!-- BLOG-POSTS:END -->
