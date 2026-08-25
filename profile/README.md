@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/v0190-connection-tags-column-masking-keyless-editing/opengraph-image.png" alt="v0.19.0: Connections That Know They're Production, Columns That Keep Secrets, and Tables Without a Primary Key You Can Finally Edit" width="120" />](https://tabularis.dev/blog/v0190-connection-tags-column-masking-keyless-editing) | [v0.19.0: Connections That Know They're Production, Columns That Keep Secrets, and Tables Without a Primary Key You Can Finally Edit](https://tabularis.dev/blog/v0190-connection-tags-column-masking-keyless-editing) | 2026-08-10 11:00 |
 | [<img src="https://tabularis.dev/blog/installing-tabularis-from-aur-without-a-helper/opengraph-image.png" alt="Installing Tabularis from the AUR, the Careful Way" width="120" />](https://tabularis.dev/blog/installing-tabularis-from-aur-without-a-helper) | [Installing Tabularis from the AUR, the Careful Way](https://tabularis.dev/blog/installing-tabularis-from-aur-without-a-helper) | 2026-08-03 19:00 |
 
-*Last updated: 2026-08-25 01:18 UTC*
+*Last updated: 2026-08-25 06:50 UTC*
 <!-- BLOG-POSTS:END -->
