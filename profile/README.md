@@ -67,5 +67,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/blog/v0230-postgres-plugin-migration-sql-files-storage-location/opengraph-image.png" alt="v0.23.0: The PostgreSQL Plugin Takes Over From the Built-in Driver, SQL Files Open in Editor Tabs, and a Data Folder You Can Sync" width="120" />](https://tabularis.dev/blog/v0230-postgres-plugin-migration-sql-files-storage-location) | [v0.23.0: The PostgreSQL Plugin Takes Over From the Built-in Driver, SQL Files Open in Editor Tabs, and a Data Folder You Can Sync](https://tabularis.dev/blog/v0230-postgres-plugin-migration-sql-files-storage-location) | 2026-09-10 10:30 |
 | [<img src="https://tabularis.dev/blog/how-plugins-can-now-inject-their-own-parsers-into-visual-explain/opengraph-image.png" alt="How plugins can now inject their own parsers into Visual EXPLAIN" width="120" />](https://tabularis.dev/blog/how-plugins-can-now-inject-their-own-parsers-into-visual-explain) | [How plugins can now inject their own parsers into Visual EXPLAIN](https://tabularis.dev/blog/how-plugins-can-now-inject-their-own-parsers-into-visual-explain) | 2026-09-04 18:30 |
 
-*Last updated: 2026-09-22 11:07 UTC*
+*Last updated: 2026-09-22 16:28 UTC*
 <!-- BLOG-POSTS:END -->
