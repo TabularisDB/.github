@@ -1,21 +1,34 @@
+<br />
 <p align="center">
   <img src="banner-light.png#gh-light-mode-only" alt="TabularisDB" width="100%">
   <img src="banner-dark.png#gh-dark-mode-only" alt="TabularisDB" width="100%">
 </p>
 
+<h1 align="center">TabularisDB</h1>
+
 <p align="center">
+  Open-source tools for modern databases.
+  <br />
+  <a href="https://tabularis.dev">Website</a>
+  ·
+  <a href="https://tabularis.dev/blog">Blog</a>
+  ·
+  <a href="https://discord.com/invite/K2hmhfHRSt">Discord</a>
+  ·
+  <a href="https://tabularis.dev/sponsors">Sponsors</a>
+</p>
+
+## Who we are
+
+TabularisDB is the organization behind **[Tabularis](https://github.com/TabularisDB/tabularis)**, an open-source desktop client for modern databases. We build developer tools that make working with data fast, local-first, and hackable, without locking you into a vendor.
+
+<p align="left">
   <em>Open-source tools for modern databases.</em><br>
   <a href="https://tabularis.dev">Website</a> ·
   <a href="https://tabularis.dev/blog">Blog</a> ·
   <a href="https://discord.com/invite/K2hmhfHRSt">Discord</a> ·
   <a href="https://tabularis.dev/sponsors">Sponsors</a>
 </p>
-
----
-
-## TabularisDB
-
-TabularisDB is the organization behind **[Tabularis](https://github.com/TabularisDB/tabularis)**, an open-source desktop client for modern databases. We build developer tools that make working with data fast, local-first, and hackable, without locking you into a vendor.
 
 ## Our flagship project
 
@@ -55,13 +68,14 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 
 <!-- BLOG-POSTS:START -->
 
-| Preview | Title | Published |
-|---|---|---|
-| [<img src="https://tabularis.dev/blog/tabularis-dev-rebuild-story/opengraph-image.png" alt="When the Project Outgrows the Site: The tabularis.dev Rebuild Story" width="120" />](https://tabularis.dev/blog/tabularis-dev-rebuild-story) | [When the Project Outgrows the Site: The tabularis.dev Rebuild Story](https://tabularis.dev/blog/tabularis-dev-rebuild-story) | 2026-10-05 14:00 |
+| Preview                                                                                                                                                                                                                                                                                                                                               | Title                                                                                                                                                                                                | Published        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [<img src="https://tabularis.dev/blog/tabularis-dev-rebuild-story/opengraph-image.png" alt="When the Project Outgrows the Site: The tabularis.dev Rebuild Story" width="120" />](https://tabularis.dev/blog/tabularis-dev-rebuild-story)                                                                                                              | [When the Project Outgrows the Site: The tabularis.dev Rebuild Story](https://tabularis.dev/blog/tabularis-dev-rebuild-story)                                                                        | 2026-10-05 14:00 |
 | [<img src="https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes/opengraph-image.png" alt="v0.26.0: Transactions That Span Runs, a Command Palette That Acts, and Themes That Reach Every Pixel" width="120" />](https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes) | [v0.26.0: Transactions That Span Runs, a Command Palette That Acts, and Themes That Reach Every Pixel](https://tabularis.dev/blog/v0260-postgres-tab-transactions-command-palette-accessible-themes) | 2026-10-01 10:00 |
-| [<img src="https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon/opengraph-image.png" alt="v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements" width="120" />](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon) | [v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon) | 2026-09-22 10:00 |
-| [<img src="https://tabularis.dev/blog/how-to-grow-an-open-source-project/opengraph-image.png" alt="How to Grow an Open-Source Project: Lessons on the Road to 5,000 Stars" width="120" />](https://tabularis.dev/blog/how-to-grow-an-open-source-project) | [How to Grow an Open-Source Project: Lessons on the Road to 5,000 Stars](https://tabularis.dev/blog/how-to-grow-an-open-source-project) | 2026-09-18 12:00 |
-| [<img src="https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts/opengraph-image.png" alt="v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results" width="120" />](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts) | [v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts) | 2026-09-16 10:00 |
+| [<img src="https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon/opengraph-image.png" alt="v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements" width="120" />](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon)                                                    | [v0.25.0: A New Theme System, AWS SSM Tunnels and Startup Improvements](https://tabularis.dev/blog/v0250-installable-themes-aws-ssm-update-badges-mcp-toon)                                          | 2026-09-22 10:00 |
+| [<img src="https://tabularis.dev/blog/how-to-grow-an-open-source-project/opengraph-image.png" alt="How to Grow an Open-Source Project: Lessons on the Road to 5,000 Stars" width="120" />](https://tabularis.dev/blog/how-to-grow-an-open-source-project)                                                                                             | [How to Grow an Open-Source Project: Lessons on the Road to 5,000 Stars](https://tabularis.dev/blog/how-to-grow-an-open-source-project)                                                              | 2026-09-18 12:00 |
+| [<img src="https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts/opengraph-image.png" alt="v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results" width="120" />](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts)                                    | [v0.24.0: Query Plans Inside Notebooks, HTTP/SOCKS5 Proxies, and a Font for Your Results](https://tabularis.dev/blog/v0240-notebook-query-plans-proxy-settings-result-fonts)                         | 2026-09-16 10:00 |
 
-*Last updated: 2026-10-06 05:20 UTC*
+_Last updated: 2026-10-06 05:20 UTC_
+
 <!-- BLOG-POSTS:END -->
