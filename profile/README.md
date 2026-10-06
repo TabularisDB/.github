@@ -1,9 +1,6 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
-    <img src="banner-dark.png" alt="TabularisDB" width="100%">
-  </picture>
+  <img src="banner-light.png#gh-light-mode-only" alt="TabularisDB" width="100%">
+  <img src="banner-dark.png#gh-dark-mode-only" alt="TabularisDB" width="100%">
 </p>
 
 <p align="center">
