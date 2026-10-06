@@ -1,14 +1,13 @@
-<div align="center">
-  <img src="https://github.com/TabularisDB/tabularis/blob/main/public/logo-sm.png?raw=true" width="120" height="120" />
-</div>
-
-<h1 align="center">TabularisDB</h1>
-
 <p align="center">
-  <em>Open-source tools for modern databases.</em>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
+    <img src="banner-dark.png" alt="TabularisDB" width="100%">
+  </picture>
 </p>
 
 <p align="center">
+  <em>Open-source tools for modern databases.</em><br>
   <a href="https://tabularis.dev">Website</a> ·
   <a href="https://tabularis.dev/blog">Blog</a> ·
   <a href="https://discord.com/invite/K2hmhfHRSt">Discord</a> ·
@@ -17,9 +16,9 @@
 
 ---
 
-## Who we are
+## TabularisDB
 
-TabularisDB is the organization behind **[Tabularis](https://github.com/TabularisDB/tabularis)**, an open-source desktop client for modern databases. We build developer tools that make working with data fast, local-first, and hackable — without locking you into a vendor.
+TabularisDB is the organization behind **[Tabularis](https://github.com/TabularisDB/tabularis)**, an open-source desktop client for modern databases. We build developer tools that make working with data fast, local-first, and hackable, without locking you into a vendor.
 
 ## Our flagship project
 
