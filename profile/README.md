@@ -76,5 +76,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/og/blog/blacksmith-ci-sponsorship.png" alt="Tabularis CI, Now Powered by Blacksmith" width="120" />](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | [Tabularis CI, Now Powered by Blacksmith](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | 2026-10-29 22:10 |
 | [<img src="https://tabularis.dev/og/blog/neon-open-source-program.png" alt="Tabularis Joins the Neon Open Source Program" width="120" />](https://tabularis.dev/blog/neon-open-source-program) | [Tabularis Joins the Neon Open Source Program](https://tabularis.dev/blog/neon-open-source-program) | 2026-10-29 07:15 |
 
-*Last updated: 2026-11-13 05:31 UTC*
+*Last updated: 2026-11-13 14:04 UTC*
 <!-- BLOG-POSTS:END -->
