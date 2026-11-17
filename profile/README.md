@@ -76,5 +76,5 @@ Join our **[Discord server](https://discord.com/invite/K2hmhfHRSt)** to talk wit
 | [<img src="https://tabularis.dev/og/blog/v0310-transposed-grid-saved-query-history-connection-import.png" alt="v0.31.0: Transposed Results, Saved Query History, and More Connection Imports" width="120" />](https://tabularis.dev/blog/v0310-transposed-grid-saved-query-history-connection-import) | [v0.31.0: Transposed Results, Saved Query History, and More Connection Imports](https://tabularis.dev/blog/v0310-transposed-grid-saved-query-history-connection-import) | 2026-11-03 10:05 |
 | [<img src="https://tabularis.dev/og/blog/blacksmith-ci-sponsorship.png" alt="Tabularis CI, Now Powered by Blacksmith" width="120" />](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | [Tabularis CI, Now Powered by Blacksmith](https://tabularis.dev/blog/blacksmith-ci-sponsorship) | 2026-10-29 22:10 |
 
-*Last updated: 2026-11-16 15:05 UTC*
+*Last updated: 2026-11-17 01:40 UTC*
 <!-- BLOG-POSTS:END -->
